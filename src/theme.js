@@ -2,10 +2,11 @@ import { createMuiTheme, responsiveFontSizes } from "@material-ui/core";
 
 // colors
 const primary = "#b3294e";
-const secondary = "#4829B2";
+//const secondary = "#4829B2"; // This is the nevy blue color in the front
+const secondary = "rgb(0, 0, 128)";
 const black = "#343a40";
 const darkBlack = "rgb(36, 40, 44)";
-const background = "#f5f5f5";
+const background = "#f5f5f5"; // disabled ash color
 const warningLight = "rgba(253, 200, 69, .3)";
 const warningMain = "rgba(253, 200, 69, .5)";
 const warningDark = "rgba(253, 200, 69, .7)";

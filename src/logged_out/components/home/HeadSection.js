@@ -132,7 +132,7 @@ function HeadSection(props) {
                             variant={isWidthUp("lg", width) ? "h6" : "body1"}
                             color="textSecondary"
                           >
-                            Free and Opensource Health Care system 
+                            Free and Opensource Health Care system for any scale Hospital, Medical center.
                           </Typography>
                         </Box>
                         <Button
