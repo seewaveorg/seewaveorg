@@ -110,3 +110,10 @@ build/
 package-lock.json
 yarn.lock
 
+# vscode
+node_modules/
+.vscode/
+settings.json
+secretnotes.md
+imports/lib/
+public/fonts/
